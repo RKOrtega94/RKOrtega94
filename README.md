@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robinson Ortega
-- 👀 I’m interested in job as Developer JR
+- 👀 I’m interested in job
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me rkortega1994@gmail.com
 
