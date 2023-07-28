@@ -8,7 +8,9 @@ Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplic
 
 #### - [Juegos y actividades con HTML / CSS y Javascript](#juegos)
 
-##### - [Juego de laberinto](#labernto)
+- [Juego de laberinto](#labernto)
+- [Arrastrar y soltar](#dragdrop)
+- [Seleccionar opciones](#select)
 
 ### Web
 
@@ -21,3 +23,15 @@ Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplic
 ##### Juego de laberinto <a href="https://github.com/RKOrtega94/laberinto" target="_blank">ver</a>
 
 ![laberinto](/assets/images/laberinto.png)
+
+<a id="dragdrop"></a>
+
+##### Arrastrar y soltar <a href="https://github.com/RKOrtega94/draggable_game" target="_blank">ver</a>
+
+![dragdrop](/assets/images/dragdrop.png)
+
+<a id="select"></a>
+
+### Seleccionar elementos <a href="https://github.com/RKOrtega94/chose_game" target="_blank">ver</a>
+
+![select](/assets/images/selleccion.png)
