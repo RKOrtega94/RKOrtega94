@@ -1,2 +1,3 @@
 # Robinson Ortega
-## Desarrollador ***Full stack***
+
+Hola, soy desarrollador **_full stack_**
