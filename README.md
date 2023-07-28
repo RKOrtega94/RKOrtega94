@@ -18,4 +18,6 @@ Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplic
 
 <a id="labernto"></a>
 
-##### Juego de laberinto [Open in New Tab](https://www.example.com){target="\_blank"}
+##### Juego de laberinto <a href="https://github.com/RKOrtega94/laberinto" target="_blank">ver</a>
+
+![laberinto](/assets/images/laberinto.png)
