@@ -26,6 +26,12 @@ Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplic
 <a id="tareas"></a>
 ##### Aplicación de tareas 
 
+Aplicación de tareas con flutter, Laravel y PostgreSQL
+
+- Gestión de equipos
+- Gestión de proyectos
+- Gestión de tareas
+
 ![tareas](/assets/task_app/sc1.png)
 
 
