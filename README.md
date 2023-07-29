@@ -2,6 +2,12 @@
 
 Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplicaciones **web y móvil**
 
+## Desarrollo Móvil
+
+### [Aplicaciones Flutter ![flutter](/assets/icons/flutter.png)](#movil)
+
+- [Aplicación de tareas](#tareas)
+
 ## Desarrollo Web
 
 ### [Diseño y desarrollo web ![html](/assets/icons/html-5.png) ![html](/assets/icons/css-3.png) ![html](/assets/icons/js.png)](#web)
@@ -11,6 +17,17 @@ Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplic
 - [Juego de laberinto](#labernto)
 - [Arrastrar y soltar](#dragdrop)
 - [Seleccionar opciones](#select)
+
+<a id="movil"></a>
+### Móvil
+
+#### Aplicaciones Flutter
+
+<a id="tareas"></a>
+##### Aplicación de tareas 
+
+![tareas](/assets/task_app/sc1.png)
+
 
 ### Web
 
