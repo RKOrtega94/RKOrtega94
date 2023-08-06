@@ -46,7 +46,7 @@ Aplicación de tareas con flutter, Laravel y PostgreSQL
 
 #### Mapas
 
-##### Cost estimator <a href="#" target="_blank">ver</a>
+##### Cost estimator <a href="https://github.com/RKOrtega94/uber_cost_estimator" target="_blank">ver</a>
 
 ![cost-estimator](/assets/images/cost_1.png)
 
