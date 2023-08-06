@@ -12,6 +12,10 @@ Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplic
 
 ### [Diseño y desarrollo web ![html](/assets/icons/html-5.png) ![html](/assets/icons/css-3.png) ![html](/assets/icons/js.png)](#web)
 
+#### - [Mapas](#mapas)
+
+- [Cost estimator](#cost-estimator)
+
 #### - [Juegos y actividades con HTML / CSS y Javascript](#juegos)
 
 - [Juego de laberinto](#labernto)
@@ -19,12 +23,14 @@ Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplic
 - [Seleccionar opciones](#select)
 
 <a id="movil"></a>
+
 ### Móvil
 
 #### Aplicaciones Flutter
 
 <a id="tareas"></a>
-##### Aplicación de tareas 
+
+##### Aplicación de tareas
 
 Aplicación de tareas con flutter, Laravel y PostgreSQL
 
@@ -32,10 +38,19 @@ Aplicación de tareas con flutter, Laravel y PostgreSQL
 - Gestión de proyectos
 - Gestión de tareas
 
-![tareas](/assets/task_app/sc1.png)
-
+![tareas](/assets/images/task_app/sc1.png)
 
 ### Web
+
+<a id="cost-estimator"></a>
+
+#### Mapas
+
+##### Cost estimator <a href="#" target="_blank">ver</a>
+
+![cost-estimator](/assets/images/cost_1.png)
+
+Calcular el costo de un viaje usando dos direcciones, usando la API de google maps y la API de geolocalización de google.
 
 <a id="juegos"></a>
 
