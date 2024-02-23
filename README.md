@@ -1,6 +1,7 @@
 # Hola!, soy RKOrtega! 👋
 
-Hola, soy desarrollador **full stack**, tengo experiencia en desarrollo de aplicaciones **web y móvil**
+## 🚀 Acerca de mi
+Desarrollador full stack, con ➕4 de experiencia en el desarrollo de de software para múltiples plataformas.
 
 ## Desarrollo Móvil
 
