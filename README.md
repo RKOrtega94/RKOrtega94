@@ -14,4 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=RKOrtega94&style=flat-square&color=blue" alt=""/>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RKOrtega94&theme=dracula&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+    ## Hi there, I'm Robinson Ortega 👋
+
+    - 🌱 I’m currently learning **React, Node.js, and MongoDB**
 </div>
