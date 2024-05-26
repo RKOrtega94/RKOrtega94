@@ -14,6 +14,4 @@
   <img src="https://komarev.com/ghpvc/?username=RKOrtega94&style=flat-square&color=blue" alt=""/>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RKOrtega94&theme=dracula&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKOrtega94)](https://github.com/RKOrtega94/)
 </div>
