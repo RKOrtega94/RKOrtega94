@@ -7,7 +7,7 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=RKOrtega94&style=flat-square&color=blue" alt="Profile views"/>
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=RKOrtega94&theme=dark&locale=es)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RKOrtega94&theme=dark&locale=es" alt="GitHub Streak" /></a>
 </div>
 
 ---
