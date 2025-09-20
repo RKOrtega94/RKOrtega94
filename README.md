@@ -2,16 +2,13 @@
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Developer GIF"/>
 
-  <br/><br/>
 
   <a href="https://www.linkedin.com/in/rkortega/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:rkortega94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=RKOrtega94&style=flat-square&color=blue" alt="Profile Views"/>
 
