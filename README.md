@@ -1,12 +1,13 @@
-<div align="center" style="display: block; gap: 0.5rem" >
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
+  <br/>
   <a href="https://www.linkedin.com/in/rkortega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=RKOrtega94&style=flat-square&color=blue" alt="Profile views"/>
-  <a href="https://git.io/streak-stats" width="100%"><img width="100%" src="https://streak-stats.demolab.com?user=RKOrtega94&theme=dark&locale=es" alt="GitHub Streak" /></a>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=RKOrtega94&theme=dark&locale=es" alt="GitHub Streak" width="100%"/>
 </div>
 
 ---
