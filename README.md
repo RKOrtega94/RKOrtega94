@@ -1,17 +1,17 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/rkortega/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+  
+  <a href="https://www.linkedin.com/in/rkortega/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
   <img src="https://komarev.com/ghpvc/?username=RKOrtega94&style=flat-square&color=blue" alt="Profile views"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=RKOrtega94&theme=dracula&hide_border=true&locale=es" alt="GitHub Streak" width="100%"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKOrtega94&theme=dark&hide_border=true" width="100%" alt="GitHub Streak"/>
 </div>
 
 ---
-
+a
 ## 👋 Hi there, I'm Robinson Ortega  
 
 ### 🚀 Full Stack Developer | Microservices Architect | Cloud Enthusiast  
