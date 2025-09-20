@@ -11,7 +11,7 @@
 </div>
 
 ---
-a
+
 ## 👋 Hi there, I'm Robinson Ortega  
 
 ### 🚀 Full Stack Developer | Microservices Architect | Cloud Enthusiast  
