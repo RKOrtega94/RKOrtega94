@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display: block; gap: 0.5rem" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <a href="https://www.linkedin.com/in/rkortega/">
@@ -6,8 +6,7 @@
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=RKOrtega94&style=flat-square&color=blue" alt="Profile views"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKOrtega94&theme=dark&hide_border=true" width="100%" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats" width="100%"><img width="100%" src="https://streak-stats.demolab.com?user=RKOrtega94&theme=dark&locale=es" alt="GitHub Streak" /></a>
 </div>
 
 ---
